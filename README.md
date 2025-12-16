@@ -58,7 +58,7 @@ PORT=3000
 3. Initialise and start the project
 ```
 npm install
-npm run start
+npm start
 ```
 
 > NOTE - We will have to edit the **inbound rules** in the security group of our EC2, in order to allow traffic from our particular port
